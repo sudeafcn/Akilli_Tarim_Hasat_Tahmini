@@ -1,4 +1,4 @@
-# 🌾 Akıllı Tarım: Hasat Verimi (Crop Yield) Analizi
+# 🌾 Akıllı Tarım: Hasat Verimi Analizi
 
 Bu proje, **CRISP-DM** metodolojisi kullanılarak tarımsal verilerin analiz edilmesi ve makine öğrenmesi (Regresyon) modelleri ile hasat veriminin tahmin edilmesi amacıyla geliştirilmiştir. Proje kapsamında 15.000 satırlık veri seti üzerinde uçtan uca veri bilimi süreçleri uygulanmıştır.
 
