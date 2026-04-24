@@ -23,17 +23,8 @@ Proje kapsamında aşağıdaki yapı kullanılmıştır
 * **Dil:** Python
 * **Kütüphaneler:** Pandas, NumPy, Scikit-learn, Plotly, Matplotlib, Seaborn
 * **Geliştirme Ortamı:** VS Code & Jupyter Notebook
-* 
-## 📊 Elde Edilen Sonuçlar 
-	•	Hasat verimini etkileyen temel faktörler belirlendi
-	•	Geliştirilen model ile başarılı tahminler elde edildi
-	•	Veri analizi sayesinde anlamlı içgörüler çıkarıldı
+ 
+
 
 ## 📊 Öne Çıkan Bulgular
 Analiz sonucunda, hasat verimi üzerinde en çok etki eden çevresel ve tarımsal faktörler belirlenmiştir. Geliştirilen model, verim tahminlemede yüksek başarı oranına ulaşmıştır.
-
-## 💡 Projeden Kazanımlar 
-	•	Veri temizleme ve ön işleme deneyimi
-	•	Veri analizi ve yorumlama becerisi
-	•	Makine öğrenmesi modelleme süreci
-	•	Sonuçları iş değeri oluşturacak şekilde yorumlama
