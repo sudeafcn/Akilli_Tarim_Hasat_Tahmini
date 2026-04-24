@@ -3,7 +3,7 @@
 Bu proje, **CRISP-DM** metodolojisi kullanılarak tarımsal verilerin analiz edilmesi ve makine öğrenmesi (Regresyon) modelleri ile hasat veriminin tahmin edilmesi amacıyla geliştirilmiştir. Proje kapsamında 15.000 satırlık veri seti üzerinde uçtan uca veri bilimi süreçleri uygulanmıştır.
 
 ## 📁 Proje Klasör Yapısı
-Ödev gereksinimlerine uygun olarak hazırlanan yapı şöyledir:
+Proje kapsamında aşağıdaki yapı kullanılmıştır
 
 * **data/**: Projede kullanılan ham ve işlenmiş (temizlenmiş) veri setleri.
 * **notebooks/**: Veri analizi, görselleştirme ve model eğitim adımlarını içeren `akıllı_tarım.ipynb` dosyası.
@@ -23,6 +23,17 @@ Bu proje, **CRISP-DM** metodolojisi kullanılarak tarımsal verilerin analiz edi
 * **Dil:** Python
 * **Kütüphaneler:** Pandas, NumPy, Scikit-learn, Plotly, Matplotlib, Seaborn
 * **Geliştirme Ortamı:** VS Code & Jupyter Notebook
+* 
+## 📊 Elde Edilen Sonuçlar 
+	•	Hasat verimini etkileyen temel faktörler belirlendi
+	•	Geliştirilen model ile başarılı tahminler elde edildi
+	•	Veri analizi sayesinde anlamlı içgörüler çıkarıldı
 
 ## 📊 Öne Çıkan Bulgular
 Analiz sonucunda, hasat verimi üzerinde en çok etki eden çevresel ve tarımsal faktörler belirlenmiştir. Geliştirilen model, verim tahminlemede yüksek başarı oranına ulaşmıştır.
+
+## 💡 Projeden Kazanımlar 
+	•	Veri temizleme ve ön işleme deneyimi
+	•	Veri analizi ve yorumlama becerisi
+	•	Makine öğrenmesi modelleme süreci
+	•	Sonuçları iş değeri oluşturacak şekilde yorumlama
